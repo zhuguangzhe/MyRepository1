@@ -1,7 +1,7 @@
 ## H2header
 #### H4header
 这是一个链接 [超星学习通](https://i.mooc.chaoxing.com/)  
-链接到另一个文件[read.md](file:///C:/Users/张家华/mymenu/read.md)  
+链接到另一个文件[read.md](/reamd)  
 本地图片↓  
 ![本地图片](dog.jfif)
 网络图片↓  
